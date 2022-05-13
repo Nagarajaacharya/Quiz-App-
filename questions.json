@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "question": "Document Object Model is in essence a",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "Browser API", "isCorrect": true },
+      { "option": "Javascript API", "isCorrect": false },
+      { "option": "Model API", "isCorrect": false },
+      { "option": "Reat ", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "then() and catch() handlers on a promise always reurn a promise",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "true", "isCorrect": true },
+      { "option": "false", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "what are the methods available on a promise",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "catch", "isCorrect": true },
+      { "option": "finally", "isCorrect": true },
+      { "option": "then", "isCorrect": true }]
+  },
+  {
+  "id": 4,
+  "question": "When are the primitive data types in JavaScript?",
+  "questionType": "checkbox",
+  "answerOptions": [
+    { "option": "string", "isCorrect": true },
+    { "option": "boolean", "isCorrect": true },
+    { "option": "object", "isCorrect": false },
+    { "option": "array", "isCorrect": false }
+  ]
+}
+  ]
